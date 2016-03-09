@@ -1,11 +1,10 @@
 //
-//  ViewController.h
-//  StudentResultDisplay
+//  studentManagerTests.m
+//  studentManagerTests
 //
 //  Created by MacPro1 on 3/2/16.
 //  Copyright © 2016 MacPro1. All rights reserved.
 //
-
 #import <XCTest/XCTest.h>
 
 @interface studentManagerTests : XCTestCase
